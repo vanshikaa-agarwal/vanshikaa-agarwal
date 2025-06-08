@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanshikaa-agarwal&label=Profile%20views&color=0e75b6&style=flat" alt="vanshikaa-agarwal" /> </p>
 
-- 🌱 I’m currently learning **Next.js**
+- 🌱 I’m currently doing an internship at **UKG**, where I am a part of DevOps Team.
 
 - 💬 Ask me about **React.js,Data Structures,Algorithms**
 
